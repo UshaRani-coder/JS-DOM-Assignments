@@ -1,0 +1,4 @@
+let section = document.querySelector(".p-f03v2__bottom-section");
+undefined
+section.style.backgroundColor = "orange" ;
+'orange'

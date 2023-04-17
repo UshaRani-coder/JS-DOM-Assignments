@@ -1,0 +1,10 @@
+let arr = [];
+undefined
+let list = document.querySelectorAll(".as-imagegrid-item");
+undefined
+for( let i of list ){
+    arr.push(i.innerText);
+}
+7
+console.log(arr);
+VM2897:1 (7) ['iPhone', 'Mac', 'iPad', 'Watch', 'AirPods', 'Music', 'TV']0: "iPhone"1: "Mac"2: "iPad"3: "Watch"4: "AirPods"5: "Music"6: "TV"length: 7[[Prototype]]: Array(0)

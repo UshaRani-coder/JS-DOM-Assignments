@@ -1,0 +1,6 @@
+let newContact = document.querySelector(".oneplus-footer--contact__list");
+undefined
+newContact.innerText = +916366256689;
+916366256689
+newContact.style.color= "#0999cc";
+'#0999cc'

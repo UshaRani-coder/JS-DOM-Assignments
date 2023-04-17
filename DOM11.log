@@ -1,0 +1,14 @@
+let wrapper = document.querySelector(".wrapper");
+undefined
+let logo = document.querySelector(".logo");
+undefined
+wrapper.removeChild(logo);
+<a href=​"https:​/​/​www.realme.com/​in/​" class=​"logo gtag" data-gtag=​"header|logo" title=​"realme" data-gtm=​"top_function|realme-logo">​…​</a>​
+let newLogo = document.createElement("img");
+undefined
+newLogo.setAttribute('src' , 'https://ineuron.ai/images/ineuron-logo.png');
+undefined
+wrapper.appendChild(newLogo);
+<img src=​"https:​/​/​ineuron.ai/​images/​ineuron-logo.png">​
+newLogo.style.height = "40px";
+'40px'

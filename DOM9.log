@@ -1,0 +1,6 @@
+let header = document.querySelector(' .text-color-white');
+undefined
+header.style.fontFamily = "monospace";
+'monospace'
+header.style.color = "#ff4d4d";
+'#ff4d4d'

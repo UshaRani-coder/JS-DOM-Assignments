@@ -1,0 +1,17 @@
+let sec = document.createElement("section");
+undefined
+sec.classList.add("parent");
+undefined
+let newFAQ = document.createTextNode("My New FAQ");
+undefined
+sec.appendChild(newFAQ);
+"My New FAQ"
+let nav = document.querySelector(".accordion-homepage");
+undefined
+nav.appendChild(sec);
+sec.style.padding = "1rem";
+'1rem'
+sec.style.paddingLeft = "1.8rem";
+'1.8rem'
+sec.style.fontWeight = "500";
+'500'

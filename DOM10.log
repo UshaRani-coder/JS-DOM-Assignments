@@ -1,0 +1,6 @@
+let button = document.querySelectorAll(" .login-btn-text");
+undefined
+function hover(){button[1].style.backgroundColor="red";}
+undefined
+button[1].addEventListener("mouseover",hover);
+undefined

@@ -1,0 +1,7 @@
+let list = document.getElementById('SIvCob');
+let languages = list.children;
+for( let i=0; i<languages.length; i++){
+if(i%2==!0){
+list.removeChild(languages[i])
+} };
+

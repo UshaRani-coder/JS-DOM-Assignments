@@ -1,0 +1,6 @@
+let input = document.getElementById("hp-search-input");
+undefined
+input.value = "CSS Selectors";
+'CSS Selectors'
+form.submit();
+

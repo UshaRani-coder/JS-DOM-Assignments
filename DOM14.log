@@ -1,0 +1,5 @@
+let deals = document.querySelector(".HotDealsAll__Heading__2fIbe");
+ 
+undefined
+deals.style.fontSize = "80px";
+'80px'

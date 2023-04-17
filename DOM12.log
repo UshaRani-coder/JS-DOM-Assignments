@@ -1,0 +1,4 @@
+let button = document.querySelector('.btn-primary');
+undefined
+button.style.backgroundColor = "blue" ;
+'blue'
