@@ -1,0 +1,9 @@
+let list = document.querySelectorAll(" #SIvCob a ");
+undefined
+for(let i=0; i<list.length; i++){
+if(i%2 != 0){
+list[i].remove();
+} 
+}
+undefined
+
