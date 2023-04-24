@@ -1,12 +1,7 @@
-let header = document.querySelector(" .hamburger__content__header ");
-      
-undefined
-header.innerText="USHA RANI";
-'USHA RANI'
 let title = document.querySelector(" .crayons-subtitle-2 ");
 undefined
-title.remove();
-undefined
+title.innerText ="Usha Rani";
+'Usha Rani'
 let description = document.querySelector(" .color-base-70 ");
 undefined
 description.innerText="I love to CODE!";
